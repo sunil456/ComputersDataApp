@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37170807467",
+    "firebase_url": "https://computersdataapp-e0100.firebaseio.com",
+    "project_id": "computersdataapp-e0100",
+    "storage_bucket": "computersdataapp-e0100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37170807467:android:4ee84baa045cd375",
+        "android_client_info": {
+          "package_name": "com.androidprojects.sunilsharma.computersdataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37170807467-vfp27mt1pteovhtt06vi2ja4tcgb8vs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidprojects.sunilsharma.computersdataapp",
+            "certificate_hash": "fe437d017369c32c33b1e6f5d868ea822df0eb14"
+          }
+        },
+        {
+          "client_id": "37170807467-03pqdio3cll09lifvjsa7noq6h4p8358.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUM7cbMgCRHqMdlNe82pZzXeMWtoME6s4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37170807467-03pqdio3cll09lifvjsa7noq6h4p8358.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

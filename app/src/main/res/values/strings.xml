@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComputersDataApp</string>
+    <string name="enter_computer_name">Enter Computer Name...</string>
+    <string name="enter_computer_power">Enter Computer Power...</string>
+    <string name="enter_computer_speed">Enter Computer Speed...</string>
+    <string name="enter_computer_ram">Enter Computer Ram...</string>
+    <string name="enter_computer_screen">Enter Screen Type...</string>
+    <string name="computer_keyboard">Enter Computer Keyboard...</string>
+    <string name="computer_cpu">Enter Computer CPU...</string>
+</resources>
